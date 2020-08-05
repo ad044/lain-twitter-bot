@@ -1,0 +1,840 @@
+1
+00:00:01,660 --> 00:00:04,640
+<font face="Bembo Std Semibold" size="54" color="#c21411">Present Day</font>
+
+2
+00:00:04,350 --> 00:00:07,590
+<font face="Bembo Std Semibold" size="54" color="#c21411">Present Time</font>
+
+3
+00:00:16,010 --> 00:00:22,340
+<font face="Karma Suture" size="54">{\an7}And you don't seem to understand</font>
+
+4
+00:00:21,090 --> 00:00:27,540
+<font face="Karma Suture" size="54">{\an9}A shame you seemed an honest man</font>
+
+5
+00:00:25,790 --> 00:00:32,290
+<font face="Karma Suture" size="54">{\an7}And all the fears you hold so dear</font>
+
+6
+00:00:30,920 --> 00:00:37,560
+<font face="Karma Suture" size="54">{\an9}Will turn to whisper in your ear</font>
+
+7
+00:00:36,390 --> 00:00:40,960
+<font face="Karma Suture" size="54">{\an7}And you know what they say might hurt you</font>
+
+8
+00:00:39,130 --> 00:00:43,430
+<font face="Karma Suture" size="54">{\an9}And you know that it means so much</font>
+
+9
+00:00:41,690 --> 00:00:48,190
+<font face="Karma Suture" size="54">{\an7}And you don't even feel a thing</font>
+
+10
+00:00:46,890 --> 00:00:53,850
+<font face="Karma Suture" size="54">{\an9}I am falling, I am fading</font>
+
+11
+00:00:52,040 --> 00:00:57,970
+<font face="Karma Suture" size="54">{\an7}I have lost it all</font>
+
+12
+00:01:16,720 --> 00:01:25,990
+<font face="Karma Suture" size="54">{\an7}I am falling, I am fading, I am drowning</font>
+
+13
+00:01:24,440 --> 00:01:28,630
+<font face="Karma Suture" size="54">{\an9}Help me to breathe</font>
+
+14
+00:01:26,660 --> 00:01:33,840
+<font face="Karma Suture" size="54">{\an7}I am hurting, I have lost it all</font>
+
+15
+00:01:32,200 --> 00:01:36,380
+<font face="Karma Suture" size="54">{\an9}I am losing</font>
+
+16
+00:01:34,770 --> 00:01:40,580
+<font face="Karma Suture" size="54">{\an7}Help me to breathe</font>
+
+17
+00:02:37,490 --> 00:02:41,060
+<font face="Open Sans Semibold" size="40">There is only one truth. God.</font>
+
+18
+00:02:50,470 --> 00:02:52,810
+<font face="Open Sans Semibold" size="40">Yes. Me.</font>
+
+19
+00:02:54,370 --> 00:02:56,720
+<font face="Open Sans Semibold" size="40">Isn't that right, Lain?</font>
+
+20
+00:03:16,760 --> 00:03:19,500
+<font face="Open Sans Semibold" size="40">You're God?</font>
+
+21
+00:03:20,630 --> 00:03:23,970
+<font face="Open Sans Semibold" size="40">Yes. I am God.</font>
+
+22
+00:03:31,440 --> 00:03:36,090
+<font face="Open Sans Semibold" size="40">Why are you God? I don't understand.</font>
+
+23
+00:03:40,750 --> 00:03:44,430
+<font face="Open Sans Semibold" size="40">You're dead, aren't you? A dead human.</font>
+
+24
+00:03:44,430 --> 00:03:48,200
+<font face="Open Sans Semibold" size="40">Somebody like that can't be God, can they?</font>
+
+25
+00:03:51,190 --> 00:03:54,620
+<font face="Open Sans Semibold" size="40">I realized that I had no need for a body.</font>
+
+26
+00:03:55,700 --> 00:03:59,590
+<font face="Open Sans Semibold" size="40">To die is merely to abandon the flesh.</font>
+
+27
+00:04:02,600 --> 00:04:05,470
+<font face="Open Sans Semibold" size="40">That's... That's just what Chisa said.</font>
+
+28
+00:04:09,030 --> 00:04:11,530
+<font face="Inkburrow" size="45">I don't need to stay here.</font>
+
+29
+00:04:13,310 --> 00:04:15,990
+<font face="Open Sans Semibold" size="40">I suppose she did, at that.</font>
+
+30
+00:04:17,650 --> 00:04:20,980
+<font face="Open Sans Semibold" size="40">I caused the protocol that governs the Wired to evolve.</font>
+
+31
+00:04:22,790 --> 00:04:25,610
+<font face="Open Sans Semibold" size="40">Yeah. That's what you did.</font>
+
+32
+00:04:26,090 --> 00:04:28,990
+<font face="Open Sans Semibold" size="40">But a protocol is just an agreement.</font>
+
+33
+00:04:28,990 --> 00:04:36,250
+<font face="Open Sans Semibold" size="40">Yes, but I incorporated code that operates on a higher phase.</font>
+
+34
+00:04:37,170 --> 00:04:38,290
+<font face="Open Sans Semibold" size="40">So?</font>
+
+35
+00:04:42,380 --> 00:04:47,300
+<font face="Open Sans Semibold" size="40">There is compressed information mixed into the protocol.</font>
+
+36
+00:04:48,620 --> 00:04:50,220
+<font face="Open Sans Semibold" size="40">What kind of information?</font>
+
+37
+00:04:50,220 --> 00:04:53,310
+<font face="Open Sans Semibold" size="40">Human memories. Mine.</font>
+
+38
+00:04:53,570 --> 00:04:58,770
+<font face="Open Sans Semibold" size="40">The thoughts, history, memories, and emotions of the man named Eiri Masami.</font>
+
+39
+00:05:00,660 --> 00:05:03,810
+<font face="Open Sans Semibold" size="40">What does that mean?</font>
+
+40
+00:05:05,230 --> 00:05:09,560
+<font face="Open Sans Semibold" size="40">I can live forever as an anonymous entity in the Wired,</font>
+
+41
+00:05:09,560 --> 00:05:12,620
+<font face="Open Sans Semibold" size="40">and will be able to rule it with information.</font>
+
+42
+00:05:14,040 --> 00:05:17,160
+<font face="Open Sans Semibold" size="40">What do you think a being like that should be called?</font>
+
+43
+00:05:18,480 --> 00:05:19,710
+<font face="Open Sans Semibold" size="40">A god.</font>
+
+44
+00:05:20,000 --> 00:05:21,870
+<font face="Open Sans Semibold" size="40">There is no God.</font>
+
+45
+00:05:24,550 --> 00:05:29,200
+<font face="Open Sans Semibold" size="40">Yes. Even if I were an omnipresent being and could influence others,</font>
+
+46
+00:05:29,590 --> 00:05:32,430
+<font face="Open Sans Semibold" size="40">with no one to worship me, I am no god.</font>
+
+47
+00:05:33,390 --> 00:05:37,640
+<font face="Open Sans Semibold" size="40">But you had them. Or made them, I should say.</font>
+
+48
+00:05:39,530 --> 00:05:41,230
+<font face="Open Sans Semibold" size="40">Knights.</font>
+
+49
+00:05:57,250 --> 00:06:02,000
+<font face="Open Sans Semibold" size="40">You no longer need a body, Lain.</font>
+
+50
+00:06:05,830 --> 00:06:07,840
+<font face="Open Sans Semibold" size="40">That's a lie!</font>
+
+51
+00:06:16,020 --> 00:06:17,850
+<font face="Open Sans Semibold" size="40">Talk about lame!</font>
+
+52
+00:06:26,780 --> 00:06:28,900
+<font face="Open Sans Semibold" size="40">Some people are like that, I guess.</font>
+
+53
+00:06:29,170 --> 00:06:31,500
+<font face="Open Sans Semibold" size="40">So I said, go ahead and do it.</font>
+
+54
+00:06:31,500 --> 00:06:32,840
+<font face="Open Sans Semibold" size="40">Anyway...</font>
+
+55
+00:06:32,840 --> 00:06:34,700
+<font face="Open Sans Semibold" size="40">Hey, look at this!</font>
+
+56
+00:06:34,700 --> 00:06:36,840
+<font face="Open Sans Semibold" size="40">Isn't it cute?</font>
+
+57
+00:06:38,580 --> 00:06:41,180
+<font face="Open Sans Semibold" size="40">It was really cheap!</font>
+
+58
+00:06:41,180 --> 00:06:41,980
+<font face="Open Sans Semibold" size="40">At that place next door?</font>
+
+59
+00:06:41,980 --> 00:06:42,910
+<font face="Open Sans Semibold" size="40">Yeah, over there!</font>
+
+60
+00:06:44,100 --> 00:06:44,910
+<font face="Open Sans Semibold" size="40">Let's go, let's go!</font>
+
+61
+00:06:46,000 --> 00:06:47,860
+<font face="Open Sans Semibold" size="40">Sure, we don't have anything after school today.</font>
+
+62
+00:06:47,860 --> 00:06:49,300
+<font face="Open Sans Semibold" size="40">Hey, you're right.</font>
+
+63
+00:06:49,300 --> 00:06:50,350
+<font face="Open Sans Semibold" size="40">Let's go!</font>
+
+64
+00:07:04,550 --> 00:07:05,900
+<font face="Open Sans Semibold" size="40">Stand!</font>
+
+65
+00:07:08,190 --> 00:07:09,830
+<font face="Open Sans Semibold" size="40">Bow!</font>
+
+66
+00:07:12,490 --> 00:07:14,910
+<font face="Open Sans Semibold" size="40">All right, close your books.</font>
+
+67
+00:07:41,620 --> 00:07:45,700
+<font face="Open Sans Semibold" size="40">I... I'm real!</font>
+
+68
+00:07:45,700 --> 00:07:47,820
+<font face="Open Sans Semibold" size="40">I'm alive!</font>
+
+69
+00:07:47,820 --> 00:07:50,150
+<font face="Open Sans Semibold" size="40">I'm here.</font>
+
+70
+00:07:51,130 --> 00:07:53,860
+<font face="Open Sans Semibold" size="40">Why is this happening?</font>
+
+71
+00:07:54,600 --> 00:07:57,230
+<font face="Open Sans Semibold" size="40">Was it something I did?</font>
+
+72
+00:07:57,230 --> 00:08:02,060
+<font face="Open Sans Semibold" size="40">I always tried to keep something like this from happening.</font>
+
+73
+00:08:02,060 --> 00:08:06,000
+<font face="Open Sans Semibold" size="40">I always tried not to say anything weird.</font>
+
+74
+00:08:07,080 --> 00:08:09,600
+<font face="Open Sans Semibold" size="40">Can it be true?</font>
+
+75
+00:08:10,750 --> 00:08:13,970
+<font face="Open Sans Semibold" size="40">I'm not supposed to have a body?</font>
+
+76
+00:08:17,960 --> 00:08:19,550
+<font face="Open Sans Semibold" size="40">That's right, Lain.</font>
+
+77
+00:08:20,900 --> 00:08:24,060
+<font face="Open Sans Semibold" size="40">You're not needed in the real world.</font>
+
+78
+00:09:23,420 --> 00:09:24,620
+<font face="Open Sans Semibold" size="40">I'm home.</font>
+
+79
+00:10:48,880 --> 00:10:50,290
+<font face="Open Sans Semibold" size="40">Dad?</font>
+
+80
+00:10:50,950 --> 00:10:54,420
+<font face="Open Sans Semibold" size="40">This is goodbye, Miss Lain.</font>
+
+81
+00:10:56,880 --> 00:11:01,960
+<font face="Open Sans Semibold" size="40">You must have figured it out by now. Our work here is finished.</font>
+
+82
+00:11:03,020 --> 00:11:06,850
+<font face="Open Sans Semibold" size="40">It was only for a short time, but I know I didn't do enough for you.</font>
+
+83
+00:11:06,850 --> 00:11:10,210
+<font face="Open Sans Semibold" size="40">You're now free to become anything you want.</font>
+
+84
+00:11:11,000 --> 00:11:13,690
+<font face="Open Sans Semibold" size="40">No, you were free all along.</font>
+
+85
+00:11:14,640 --> 00:11:20,690
+<font face="Open Sans Semibold" size="40">I wasn't given permission to say goodbye, but I loved you.</font>
+
+86
+00:11:25,280 --> 00:11:28,630
+<font face="Open Sans Semibold" size="40">It's not that I enjoyed playing house...</font>
+
+87
+00:11:29,120 --> 00:11:34,230
+<font face="Open Sans Semibold" size="40">Maybe I envied a being like you.</font>
+
+88
+00:11:34,890 --> 00:11:36,410
+<font face="Open Sans Semibold" size="40">Goodbye.</font>
+
+89
+00:11:44,100 --> 00:11:45,010
+<font face="Open Sans Semibold" size="40">Wait!</font>
+
+90
+00:11:46,970 --> 00:11:49,020
+<font face="Open Sans Semibold" size="40">Don't leave me alone!</font>
+
+91
+00:11:50,640 --> 00:11:54,850
+<font face="Open Sans Semibold" size="40">Alone? You're not alone.</font>
+
+92
+00:11:57,310 --> 00:12:02,030
+<font face="Open Sans Semibold" size="40">If you connect to the Wired, everyone will welcome you.</font>
+
+93
+00:12:02,030 --> 00:12:05,500
+<font face="Open Sans Semibold" size="40">That's the sort of being you were.</font>
+
+94
+00:12:26,310 --> 00:12:28,340
+<font face="Open Sans Semibold" size="40">I'm not alone.</font>
+
+95
+00:12:40,660 --> 00:12:43,110
+<font face="Open Sans Semibold" size="40">Do you want to do anything, Lain?</font>
+
+96
+00:12:47,430 --> 00:12:50,020
+<font face="Open Sans Semibold" size="40">This is your world, Lain.</font>
+
+97
+00:12:52,200 --> 00:12:57,260
+<font face="Open Sans Semibold" size="40">Who are the Knights? They're the ones who made the fake me, right?</font>
+
+98
+00:12:57,640 --> 00:12:59,160
+<font face="Open Sans Semibold" size="40">I'm not sure.</font>
+
+99
+00:12:59,160 --> 00:13:00,330
+<font face="Open Sans Semibold" size="40">No, it's possible.</font>
+
+100
+00:13:00,840 --> 00:13:03,100
+<font face="Open Sans Semibold" size="40">They say you can trace the origin of the</font>
+
+101
+00:13:03,100 --> 00:13:06,290
+<font face="Open Sans Semibold" size="40">Knights of the Eastern Calculus back to the Knights Templar.</font>
+
+102
+00:13:06,650 --> 00:13:11,110
+<font face="Open Sans Semibold" size="40">They've used that invisible human network, the collective unconscious,</font>
+
+103
+00:13:11,110 --> 00:13:15,350
+<font face="Open Sans Semibold" size="40">since long before the Wired was born.</font>
+
+104
+00:13:17,060 --> 00:13:19,410
+<font face="Open Sans Semibold" size="40">What do you want to do, Lain?</font>
+
+105
+00:13:20,630 --> 00:13:22,080
+<font face="Open Sans Semibold" size="40">Knights...</font>
+
+106
+00:13:22,080 --> 00:13:24,080
+<font face="Open Sans Semibold" size="40">Who are the Knights?</font>
+
+107
+00:13:25,000 --> 00:13:27,320
+<font face="Open Sans Semibold" size="40">You really want to know, don't you, Lain?</font>
+
+108
+00:13:28,570 --> 00:13:33,880
+<font face="Open Sans Semibold" size="40">The Wired's God is a god because He has worshipers.</font>
+
+109
+00:14:01,140 --> 00:14:04,490
+<font face="Open Sans Semibold" size="40">Hey, Taro, let's go someplace else.</font>
+
+110
+00:14:05,010 --> 00:14:06,890
+<font face="Open Sans Semibold" size="40">This place has gotten boring.</font>
+
+111
+00:14:06,890 --> 00:14:09,760
+<font face="Open Sans Semibold" size="40">Yeah. Why not come over to my house?</font>
+
+112
+00:14:09,760 --> 00:14:12,100
+<font face="Open Sans Semibold" size="40">You don't need to come, Masayuki.</font>
+
+113
+00:14:13,910 --> 00:14:15,520
+<font face="Open Sans Semibold" size="40">What's the big idea?</font>
+
+114
+00:14:16,120 --> 00:14:20,070
+<font face="Open Sans Semibold" size="40">Taro says he doesn't wanna hang out with a little kid like you.</font>
+
+115
+00:14:20,420 --> 00:14:21,830
+<font face="Open Sans Semibold" size="40">Wha...?</font>
+
+116
+00:14:21,830 --> 00:14:24,270
+<font face="Open Sans Semibold" size="40">You're as much a kid as I am, Myu-Myu!</font>
+
+117
+00:14:25,960 --> 00:14:30,340
+<font face="Open Sans Semibold" size="40">It's okay for a girl! Everybody knows that younger is better for girls.</font>
+
+118
+00:14:30,630 --> 00:14:31,980
+<font face="Open Sans Semibold" size="40">Right, Taro?</font>
+
+119
+00:14:32,330 --> 00:14:33,750
+<font face="Open Sans Semibold" size="40">What's that?</font>
+
+120
+00:14:33,750 --> 00:14:38,020
+<font face="Open Sans Semibold" size="40">What's up, Taro? Is there something on the Net News?</font>
+
+121
+00:14:38,710 --> 00:14:39,930
+<font face="Open Sans Semibold" size="40">It's a list.</font>
+
+122
+00:14:39,930 --> 00:14:41,850
+<font face="Open Sans Semibold" size="40">Huh? What kind of list?</font>
+
+123
+00:14:42,540 --> 00:14:47,320
+<font face="Open Sans Semibold" size="40">What's a list of Knights members doing on the Net News?</font>
+
+124
+00:15:03,160 --> 00:15:04,620
+<font face="Open Sans Semibold" size="40">Y-Yes?</font>
+
+125
+00:15:10,340 --> 00:15:12,130
+<font face="Open Sans Semibold" size="40">Please remain silent.</font>
+
+126
+00:15:13,910 --> 00:15:15,140
+<font face="Open Sans Semibold" size="40">W-Who are you?</font>
+
+127
+00:15:15,500 --> 00:15:17,200
+<font face="Open Sans Semibold" size="40">Time to pay the piper, all right?</font>
+
+128
+00:15:17,200 --> 00:15:18,530
+<font face="Open Sans Semibold" size="40">W-What do you mean?</font>
+
+129
+00:15:51,580 --> 00:15:53,720
+<font face="Open Sans Semibold" size="40">Mom, I got killed!</font>
+
+130
+00:15:53,720 --> 00:15:55,430
+<font face="Open Sans Semibold" size="40">Mom!</font>
+
+131
+00:15:56,250 --> 00:16:00,140
+<font face="Open Sans Semibold" size="40">It's your turn, Mom! If you don't hurry up, I'm gonna keep playing!</font>
+
+132
+00:16:00,690 --> 00:16:02,680
+<font face="Open Sans Semibold" size="40">Okay, Mom?</font>
+
+133
+00:16:03,820 --> 00:16:06,710
+<font face="Open Sans Semibold" size="40">I'm gonna take 'em out!</font>
+
+134
+00:16:10,260 --> 00:16:14,290
+<font face="Open Sans Semibold" size="40">A series of suicides occurred today all over the world,</font>
+
+135
+00:16:14,290 --> 00:16:17,060
+<font face="Open Sans Semibold" size="40">and each country's Information Control Ministry</font>
+
+136
+00:16:17,060 --> 00:16:19,120
+<font face="Open Sans Semibold" size="40">and police departments have begun investigating the cause.</font>
+
+137
+00:16:19,840 --> 00:16:24,400
+<font face="Open Sans Semibold" size="40">Each victim was involved in network-related work,</font>
+
+138
+00:16:24,400 --> 00:16:28,120
+<font face="Open Sans Semibold" size="40">and sources tell us that it appears that they were all members</font>
+
+139
+00:16:28,120 --> 00:16:31,370
+<font face="Open Sans Semibold" size="40">of a fraternal order known as the "Knights."</font>
+
+140
+00:17:17,500 --> 00:17:21,140
+<font face="Open Sans Semibold" size="40">Why did you do it?</font>
+
+141
+00:17:22,100 --> 00:17:25,250
+<font face="Open Sans Semibold" size="40">It was a request from our client.</font>
+
+142
+00:17:25,940 --> 00:17:30,120
+<font face="Open Sans Semibold" size="40">You hunted down all the Knights in the world.</font>
+
+143
+00:17:30,120 --> 00:17:34,360
+<font face="Open Sans Semibold" size="40">Our associates are now on their way to dispose of them.</font>
+
+144
+00:17:35,080 --> 00:17:37,280
+<font face="Open Sans Semibold" size="40">But why?</font>
+
+145
+00:17:37,990 --> 00:17:41,230
+<font face="Open Sans Semibold" size="40">The Wired can't be allowed to be a special world.</font>
+
+146
+00:17:41,890 --> 00:17:46,830
+<font face="Open Sans Semibold" size="40">It can only be a field that functions as a sub-system reinforcing the real world.</font>
+
+147
+00:17:48,160 --> 00:17:50,080
+<font face="Open Sans Semibold" size="40">But still...</font>
+
+148
+00:17:50,560 --> 00:17:55,290
+<font face="Open Sans Semibold" size="40">You can't be allowed to exist in the Wired, either.</font>
+
+149
+00:17:55,290 --> 00:17:57,420
+<font face="Open Sans Semibold" size="40">But here you are, safe and sound.</font>
+
+150
+00:17:59,310 --> 00:18:03,490
+<font face="Open Sans Semibold" size="40">Some god or whatever must be protecting you.</font>
+
+151
+00:18:05,980 --> 00:18:09,500
+<font face="Open Sans Semibold" size="40">Eiri Masami's residual thought program</font>
+
+152
+00:18:09,500 --> 00:18:12,230
+<font face="Open Sans Semibold" size="40">will eventually be disinfected from the Wired.</font>
+
+153
+00:18:12,230 --> 00:18:19,860
+<font face="Open Sans Semibold" size="40">Our client is working on a total rewrite of the Protocol Seven code.</font>
+
+154
+00:18:23,160 --> 00:18:26,160
+<font face="Open Sans Semibold" size="40">We have no need for gods.</font>
+
+155
+00:18:26,160 --> 00:18:29,780
+<font face="Open Sans Semibold" size="40">Right. Not in the Wired or in the real world.</font>
+
+156
+00:18:45,050 --> 00:18:50,140
+<font face="Open Sans Semibold" size="40">We still haven't figured out what you are.</font>
+
+157
+00:18:55,600 --> 00:18:58,940
+<font face="Open Sans Semibold" size="40">But I love you.</font>
+
+158
+00:19:02,440 --> 00:19:07,440
+<font face="Open Sans Semibold" size="40">Love certainly is a strange emotion, isn't it?</font>
+
+159
+00:19:35,100 --> 00:19:36,690
+<font face="Open Sans Semibold" size="40">What will you do?</font>
+
+160
+00:19:37,670 --> 00:19:40,890
+<font face="Open Sans Semibold" size="40">Well, let me think...</font>
+
+161
+00:19:43,910 --> 00:19:46,800
+<font face="Open Sans Semibold" size="40">You don't have anyone to pray to you now.</font>
+
+162
+00:19:49,150 --> 00:19:54,260
+<font face="Open Sans Semibold" size="40">I can't be a god, then. But I haven't lost all of them.</font>
+
+163
+00:19:54,660 --> 00:19:59,130
+<font face="Open Sans Semibold" size="40">If only one believer remains, I can still be a god.</font>
+
+164
+00:20:00,030 --> 00:20:01,340
+<font face="Open Sans Semibold" size="40">Who?</font>
+
+165
+00:20:02,330 --> 00:20:05,800
+<font face="Open Sans Semibold" size="40">Come, now... You, Lain.</font>
+
+166
+00:20:09,340 --> 00:20:13,430
+<font face="Open Sans Semibold" size="40">It's because of me that you can stay yourself.</font>
+
+167
+00:20:13,870 --> 00:20:17,860
+<font face="Open Sans Semibold" size="40">You were originally born in the Wired.</font>
+
+168
+00:20:17,860 --> 00:20:23,310
+<font face="Open Sans Semibold" size="40">The legend of the Wired. The heroine of the Wired's fairy tales.</font>
+
+169
+00:20:29,190 --> 00:20:30,640
+<font face="Open Sans Semibold" size="40">Liar.</font>
+
+170
+00:20:31,590 --> 00:20:35,880
+<font face="Open Sans Semibold" size="40">The real world's Iwakura Lain is merely a hologram of her.</font>
+
+171
+00:20:35,880 --> 00:20:39,000
+<font face="Open Sans Semibold" size="40">A homunculus of artificial ribosomes.</font>
+
+172
+00:20:39,770 --> 00:20:42,580
+<font face="Open Sans Semibold" size="40">You never had a body to begin with.</font>
+
+173
+00:20:44,000 --> 00:20:45,590
+<font face="Open Sans Semibold" size="40">That's a lie.</font>
+
+174
+00:20:46,940 --> 00:20:52,810
+<font face="Open Sans Semibold" size="40">A fake family. Fake friends. Yes, it was all a lie.</font>
+
+175
+00:20:55,380 --> 00:20:56,900
+<font face="Open Sans Semibold" size="40">That's a lie...</font>
+
+176
+00:20:59,220 --> 00:21:01,310
+<font face="Open Sans Semibold" size="40">That's all a lie...</font>
+
+177
+00:21:03,730 --> 00:21:07,740
+<font face="Open Sans Semibold" size="40">Poor Lain... She's all alone.</font>
+
+178
+00:21:08,060 --> 00:21:12,410
+<font face="Open Sans Semibold" size="40">But I'm here. The man who loves you is here.</font>
+
+179
+00:21:12,930 --> 00:21:17,550
+<font face="Open Sans Semibold" size="40">You should be able to love me, the man who sent you to this world...</font>
+
+180
+00:21:19,870 --> 00:21:23,380
+<font face="Open Sans Semibold" size="40">I am your creator.</font>
+
+181
+00:21:23,940 --> 00:21:26,380
+<font face="Open Sans Semibold" size="40">Love me.</font>
+
+182
+00:21:27,380 --> 00:21:29,730
+<font face="Open Sans Semibold" size="40">All right, Lain?</font>
+
+183
+00:21:30,550 --> 00:21:32,390
+<font face="Open Sans Semibold" size="40">The other...</font>
+
+184
+00:21:34,790 --> 00:21:36,880
+<font face="Open Sans Semibold" size="40">The other me, she's...</font>
+
+185
+00:21:36,880 --> 00:21:41,810
+<font face="Open Sans Semibold" size="40">That isn't another you. It's the real you.</font>
+
+186
+00:21:45,600 --> 00:21:47,810
+<font face="Open Sans Semibold" size="40">Like it matters!</font>
+
+187
+00:22:28,150 --> 00:22:32,580
+<font face="Bembo Std Semibold" size="35">{\an8}nan no tsumi mo nai hazu na no ni</font>
+
+188
+00:22:28,150 --> 00:22:32,580
+<font face="Bembo Std Semibold" size="35">Although I must be innocent,</font>
+
+189
+00:22:32,580 --> 00:22:36,490
+<font face="Bembo Std Semibold" size="35">{\an8}nanraka no batsu wo uketeru</font>
+
+190
+00:22:32,580 --> 00:22:36,490
+<font face="Bembo Std Semibold" size="35">now I am punished.</font>
+
+191
+00:22:36,920 --> 00:22:42,790
+<font face="Bembo Std Semibold" size="35">{\an8}jibun de maita tane de mo nai no ni</font>
+
+192
+00:22:36,920 --> 00:22:42,790
+<font face="Bembo Std Semibold" size="35">I wasn't the one who sowed those seeds, but nevertheless</font>
+
+193
+00:22:43,510 --> 00:22:49,700
+<font face="Bembo Std Semibold" size="35">{\an8}sakimidareta hana tsumasareru</font>
+
+194
+00:22:43,510 --> 00:22:49,700
+<font face="Bembo Std Semibold" size="35">I have to pull up the flowers that bloomed from them.</font>
+
+195
+00:22:56,250 --> 00:23:00,890
+<font face="Bembo Std Semibold" size="35">{\an8}shiranai koto to mo ienai ga</font>
+
+196
+00:22:56,250 --> 00:23:00,890
+<font face="Bembo Std Semibold" size="35">I can't say I didn't know about it,</font>
+
+197
+00:23:00,890 --> 00:23:05,340
+<font face="Bembo Std Semibold" size="35">{\an8}katabou katsuida oboe wa nai</font>
+
+198
+00:23:00,890 --> 00:23:05,340
+<font face="Bembo Std Semibold" size="35">but I don't remember taking any part in it.</font>
+
+199
+00:23:05,340 --> 00:23:11,530
+<font face="Bembo Std Semibold" size="35">{\an8}jiyuu wo takaku kawasareta ki mo suru ga</font>
+
+200
+00:23:05,340 --> 00:23:11,530
+<font face="Bembo Std Semibold" size="35">I think my freedom cost me dearly,</font>
+
+201
+00:23:12,060 --> 00:23:18,770
+<font face="Bembo Std Semibold" size="35">{\an8}kokoro made yasuku utta oboe wa nai</font>
+
+202
+00:23:12,060 --> 00:23:18,770
+<font face="Bembo Std Semibold" size="35">but I don't remember selling my soul so cheaply.</font>
+
+203
+00:23:19,130 --> 00:23:26,820
+<font face="Bembo Std Semibold" size="35">{\an8}Hey Hey kutabatte osaraba suru made</font>
+
+204
+00:23:19,130 --> 00:23:26,820
+<font face="Bembo Std Semibold" size="35">Hey hey, until I die and say farewell...</font>
+
+205
+00:23:27,840 --> 00:23:36,730
+<font face="Bembo Std Semibold" size="35">{\an8}Hey Hey dare no te ni mo kakaranai</font>
+
+206
+00:23:27,840 --> 00:23:36,730
+<font face="Bembo Std Semibold" size="35">Hey hey... no one can touch me.</font>
+
+207
+00:23:38,250 --> 00:23:42,340
+<font face="Bembo Std Semibold" size="35">{\an8}tooi yoru wo urotsuiteiru</font>
+
+208
+00:23:38,250 --> 00:23:42,340
+<font face="Bembo Std Semibold" size="35">You probably don't know</font>
+
+209
+00:23:42,340 --> 00:23:50,050
+<font face="Bembo Std Semibold" size="35">{\an8}shiranai darou eien no narazu monotachi wo</font>
+
+210
+00:23:42,340 --> 00:23:50,050
+<font face="Bembo Std Semibold" size="35">the eternal outlaws prowling in the distant night.</font>
+

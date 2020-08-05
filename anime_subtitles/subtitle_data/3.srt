@@ -1,0 +1,1016 @@
+1
+00:00:01,660 --> 00:00:04,640
+<font face="Bembo Std Semibold" size="54" color="#c21411">Present Day</font>
+
+2
+00:00:04,350 --> 00:00:07,590
+<font face="Bembo Std Semibold" size="54" color="#c21411">Present Time</font>
+
+3
+00:00:16,010 --> 00:00:22,340
+<font face="Karma Suture" size="54">{\an7}And you don't seem to understand</font>
+
+4
+00:00:21,090 --> 00:00:27,540
+<font face="Karma Suture" size="54">{\an9}A shame you seemed an honest man</font>
+
+5
+00:00:25,790 --> 00:00:32,290
+<font face="Karma Suture" size="54">{\an7}And all the fears you hold so dear</font>
+
+6
+00:00:30,920 --> 00:00:37,560
+<font face="Karma Suture" size="54">{\an9}Will turn to whisper in your ear</font>
+
+7
+00:00:36,390 --> 00:00:40,960
+<font face="Karma Suture" size="54">{\an7}And you know what they say might hurt you</font>
+
+8
+00:00:39,130 --> 00:00:43,430
+<font face="Karma Suture" size="54">{\an9}And you know that it means so much</font>
+
+9
+00:00:41,690 --> 00:00:48,190
+<font face="Karma Suture" size="54">{\an7}And you don't even feel a thing</font>
+
+10
+00:00:46,890 --> 00:00:53,850
+<font face="Karma Suture" size="54">{\an9}I am falling, I am fading</font>
+
+11
+00:00:52,040 --> 00:00:57,970
+<font face="Karma Suture" size="54">{\an7}I have lost it all</font>
+
+12
+00:01:16,720 --> 00:01:25,990
+<font face="Karma Suture" size="54">{\an7}I am falling, I am fading, I am drowning</font>
+
+13
+00:01:24,440 --> 00:01:28,630
+<font face="Karma Suture" size="54">{\an9}Help me to breathe</font>
+
+14
+00:01:26,660 --> 00:01:33,840
+<font face="Karma Suture" size="54">{\an7}I am hurting, I have lost it all</font>
+
+15
+00:01:32,200 --> 00:01:36,380
+<font face="Karma Suture" size="54">{\an9}I am losing</font>
+
+16
+00:01:34,770 --> 00:01:40,580
+<font face="Karma Suture" size="54">{\an7}Help me to breathe</font>
+
+17
+00:02:11,230 --> 00:02:14,590
+<font face="Open Sans Semibold" size="40">You've heard of a girl named Lain, right?</font>
+
+18
+00:02:16,130 --> 00:02:18,830
+<font face="Open Sans Semibold" size="40">Lain of the Wired.</font>
+
+19
+00:02:35,320 --> 00:02:37,960
+<font face="Open Sans Semibold" size="40">Are your parents away on vacation or something?</font>
+
+20
+00:02:38,340 --> 00:02:42,390
+<font face="Open Sans Semibold" size="40">I called the number you gave me, but no one answered.</font>
+
+21
+00:02:43,690 --> 00:02:47,220
+<font face="Open Sans Semibold" size="40">I'm not lying.</font>
+
+22
+00:02:47,220 --> 00:02:51,230
+<font face="Open Sans Semibold" size="40">No, I don't think you're lying. I checked.</font>
+
+23
+00:02:51,600 --> 00:02:53,970
+<font face="Open Sans Semibold" size="40">You're Iwakura Lain, all right.</font>
+
+24
+00:02:53,970 --> 00:02:56,230
+<font face="Open Sans Semibold" size="40">Your address and phone number check out.</font>
+
+25
+00:02:57,410 --> 00:03:00,380
+<font face="Open Sans Semibold" size="40">It's late, so I'm going to have someone take you home.</font>
+
+26
+00:03:00,380 --> 00:03:03,210
+<font face="Open Sans Semibold" size="40">But next time, I want you to talk to me.</font>
+
+27
+00:03:03,210 --> 00:03:06,910
+<font face="Open Sans Semibold" size="40">Keeping quiet is a bad idea, even if you weren't involved.</font>
+
+28
+00:03:08,480 --> 00:03:09,740
+<font face="Open Sans Semibold" size="40">For crying out loud...</font>
+
+29
+00:03:11,050 --> 00:03:12,920
+<font face="Open Sans Semibold" size="40">Lain, I'm sorry!</font>
+
+30
+00:03:13,320 --> 00:03:15,810
+<font face="Open Sans Semibold" size="40">This is all our fault. Are you okay, Lain?</font>
+
+31
+00:03:20,500 --> 00:03:23,330
+<font face="Open Sans Semibold" size="40">Are you all right, Lain?</font>
+
+32
+00:03:24,230 --> 00:03:25,260
+<font face="Open Sans Semibold" size="40">A...</font>
+
+33
+00:03:25,900 --> 00:03:28,260
+<font face="Open Sans Semibold" size="40">What is it, Lain?</font>
+
+34
+00:03:28,770 --> 00:03:32,270
+<font face="Open Sans Semibold" size="40">A... ri... su.</font>
+
+35
+00:03:33,740 --> 00:03:37,070
+<font face="Open Sans Semibold" size="40">Arisu! Come on! We're going home.</font>
+
+36
+00:03:38,410 --> 00:03:39,780
+<font face="Open Sans Semibold" size="40">Lain...</font>
+
+37
+00:03:39,780 --> 00:03:41,250
+<font face="Open Sans Semibold" size="40">Arisu!</font>
+
+38
+00:03:41,880 --> 00:03:45,550
+<font face="Open Sans Semibold" size="40">I'm sorry. I'm so sorry. I'm so sorry, Lain...</font>
+
+39
+00:03:46,420 --> 00:03:49,120
+<font face="Open Sans Semibold" size="40">Tomorrow... Let's talk tomorrow, okay?</font>
+
+40
+00:03:49,120 --> 00:03:50,370
+<font face="Open Sans Semibold" size="40">I'm sorry!</font>
+
+41
+00:03:51,230 --> 00:03:53,850
+<font face="Open Sans Semibold" size="40">So do you want to head home, too?</font>
+
+42
+00:03:58,970 --> 00:04:01,380
+<font face="Open Sans Semibold" size="40">A... risu.</font>
+
+43
+00:04:17,050 --> 00:04:18,690
+<font face="Open Sans Semibold" size="40">You have a key, right?</font>
+
+44
+00:04:18,690 --> 00:04:19,620
+<font face="Open Sans Semibold" size="40">Yes.</font>
+
+45
+00:06:30,280 --> 00:06:32,910
+<font face="Open Sans Semibold" size="40">Message...</font>
+
+46
+00:06:35,490 --> 00:06:38,890
+<font face="Open Sans Semibold" size="40">There are no messages for Lain.</font>
+
+47
+00:06:45,770 --> 00:06:47,200
+<font face="Open Sans Semibold" size="40">Good night, Navi.</font>
+
+48
+00:06:47,200 --> 00:06:49,600
+<font face="Open Sans Semibold" size="40">Good night, Lain.</font>
+
+49
+00:07:55,070 --> 00:07:58,040
+<font face="Open Sans Semibold" size="40">Don't you think it's embarrassing for a junior high-schooler</font>
+
+50
+00:07:58,040 --> 00:07:59,900
+<font face="Open Sans Semibold" size="40">to oversleep and be late for school?</font>
+
+51
+00:08:01,110 --> 00:08:05,790
+<font face="Open Sans Semibold" size="40">Mom, about last night...</font>
+
+52
+00:08:06,210 --> 00:08:08,960
+<font face="Open Sans Semibold" size="40">Hm? What about it?</font>
+
+53
+00:08:10,590 --> 00:08:13,460
+<font face="Open Sans Semibold" size="40">Never mind.</font>
+
+54
+00:09:01,940 --> 00:09:03,190
+<font face="Open Sans Semibold" size="40">Lain.</font>
+
+55
+00:09:03,670 --> 00:09:04,970
+<font face="Open Sans Semibold" size="40">Lain.</font>
+
+56
+00:09:05,840 --> 00:09:07,330
+<font face="Open Sans Semibold" size="40">Lain.</font>
+
+57
+00:09:09,980 --> 00:09:15,070
+<font face="Open Sans Semibold" size="40">It's me, Lain. You can hear me, can't you?</font>
+
+58
+00:09:15,980 --> 00:09:17,780
+<font face="Open Sans Semibold" size="40">Who's there?</font>
+
+59
+00:09:19,520 --> 00:09:21,870
+<font face="Open Sans Semibold" size="40">You are not alone.</font>
+
+60
+00:09:27,950 --> 00:09:28,500
+<font face="Open Sans Semibold" size="40">'Morning!</font>
+
+61
+00:09:28,500 --> 00:09:29,860
+<font face="Open Sans Semibold" size="40">Good morning!</font>
+
+62
+00:09:31,400 --> 00:09:33,630
+<font face="Open Sans Semibold" size="40">Oh, my god!</font>
+
+63
+00:09:33,970 --> 00:09:35,700
+<font face="Open Sans Semibold" size="40">Was he cute?</font>
+
+64
+00:09:35,700 --> 00:09:38,430
+<font face="Open Sans Semibold" size="40">Yeah, they wouldn't show his face on TV!</font>
+
+65
+00:09:39,340 --> 00:09:40,310
+<font face="Open Sans Semibold" size="40">Well...</font>
+
+66
+00:09:40,310 --> 00:09:43,640
+<font face="Open Sans Semibold" size="40">Oh, you were screaming the whole time. Did you even see his face?</font>
+
+67
+00:09:43,640 --> 00:09:45,600
+<font face="Open Sans Semibold" size="40">Well, yeah, but...</font>
+
+68
+00:09:47,920 --> 00:09:49,250
+<font face="Open Sans Semibold" size="40">I was a little...</font>
+
+69
+00:09:49,250 --> 00:09:50,810
+<font face="Open Sans Semibold" size="40">You were too scared to look.</font>
+
+70
+00:09:52,150 --> 00:09:53,060
+<font face="Open Sans Semibold" size="40">Lain!</font>
+
+71
+00:09:55,490 --> 00:09:58,430
+<font face="Open Sans Semibold" size="40">Lain, did you get in trouble yesterday?</font>
+
+72
+00:09:58,430 --> 00:10:00,860
+<font face="Open Sans Semibold" size="40">Come on, it wasn't really our fault.</font>
+
+73
+00:10:00,860 --> 00:10:02,280
+<font face="Open Sans Semibold" size="40">I'm sorry. I'll be right back.</font>
+
+74
+00:10:02,280 --> 00:10:05,530
+<font face="Open Sans Semibold" size="40">Right, Arisu was closest to the guy!</font>
+
+75
+00:10:06,630 --> 00:10:08,690
+<font face="Open Sans Semibold" size="40">So, was there blood splattered all over?</font>
+
+76
+00:10:09,240 --> 00:10:10,070
+<font face="Open Sans Semibold" size="40">Yeah...</font>
+
+77
+00:10:10,070 --> 00:10:11,770
+<font face="Open Sans Semibold" size="40">Tell them!</font>
+
+78
+00:10:11,770 --> 00:10:12,290
+<font face="Open Sans Semibold" size="40">Come on!</font>
+
+79
+00:10:12,290 --> 00:10:13,640
+<font face="Open Sans Semibold" size="40">Arisu!</font>
+
+80
+00:10:19,050 --> 00:10:21,010
+<font face="Open Sans Semibold" size="40">But that's not all.</font>
+
+81
+00:10:21,380 --> 00:10:27,010
+<font face="Open Sans Semibold" size="40">If you look at the Psyche as a mere processor, you lose sight of the whole.</font>
+
+82
+00:10:27,760 --> 00:10:29,690
+<font face="Open Sans Semibold" size="40">As a multi-purpose information terminal,</font>
+
+83
+00:10:29,690 --> 00:10:32,630
+<font face="Open Sans Semibold" size="40">the Navi has come into wide use even among grade-schoolers.</font>
+
+84
+00:10:33,690 --> 00:10:38,070
+<font face="Open Sans Semibold" size="40">However, activity within the Wired is currently limited by the machine.</font>
+
+85
+00:10:39,100 --> 00:10:43,400
+<font face="Open Sans Semibold" size="40">The Psyche can dramatically increase the performance of any Navi.</font>
+
+86
+00:10:43,400 --> 00:10:47,430
+<font face="Open Sans Semibold" size="40">There was no reason for me to stay in the real world any longer.</font>
+
+87
+00:10:48,740 --> 00:10:54,200
+<font face="Open Sans Semibold" size="40">In the real world, it didn't matter if I was there or not.</font>
+
+88
+00:10:54,880 --> 00:11:01,910
+<font face="Open Sans Semibold" size="40">When I realized that, I was no longer afraid of losing my body.</font>
+
+89
+00:11:03,520 --> 00:11:04,890
+<font face="Open Sans Semibold" size="40">Who is Lain?</font>
+
+90
+00:11:05,550 --> 00:11:06,160
+<font face="Open Sans Semibold" size="40">Huh?</font>
+
+91
+00:11:07,510 --> 00:11:08,920
+<font face="Open Sans Semibold" size="40">Who is Lain?</font>
+
+92
+00:11:09,700 --> 00:11:11,100
+<font face="Open Sans Semibold" size="40">Who is Lain?</font>
+
+93
+00:11:11,630 --> 00:11:13,120
+<font face="Open Sans Semibold" size="40">Who is Lain?</font>
+
+94
+00:11:15,440 --> 00:11:17,530
+<font face="Open Sans Semibold" size="40">There's something wrong with us!</font>
+
+95
+00:11:18,060 --> 00:11:22,080
+<font face="Open Sans Semibold" size="40">We saw someone die right in front of us yesterday,</font>
+
+96
+00:11:22,080 --> 00:11:26,510
+<font face="Open Sans Semibold" size="40">but we're acting like it's something we saw in a movie.</font>
+
+97
+00:11:26,510 --> 00:11:33,310
+<font face="Open Sans Semibold" size="40">I know we were there last night, but it didn't seem real.</font>
+
+98
+00:11:33,720 --> 00:11:35,620
+<font face="Open Sans Semibold" size="40">I guess it's like that for me, too.</font>
+
+99
+00:11:36,460 --> 00:11:40,290
+<font face="Open Sans Semibold" size="40">I don't think you should take it so seriously, Arisu.</font>
+
+100
+00:11:41,090 --> 00:11:43,000
+<font face="Open Sans Semibold" size="40">No, that's not what I mean.</font>
+
+101
+00:11:43,000 --> 00:11:46,230
+<font face="Open Sans Semibold" size="40">I'm saying it's strange that we can't take it seriously.</font>
+
+102
+00:11:46,230 --> 00:11:47,720
+<font face="Open Sans Semibold" size="40">Right, Lain?</font>
+
+103
+00:11:48,640 --> 00:11:50,100
+<font face="Open Sans Semibold" size="40">Huh? What?</font>
+
+104
+00:11:50,100 --> 00:11:53,540
+<font face="Open Sans Semibold" size="40">What's that, a love letter?</font>
+
+105
+00:11:54,240 --> 00:11:55,350
+<font face="Open Sans Semibold" size="40">No way!</font>
+
+106
+00:11:55,610 --> 00:11:58,360
+<font face="Open Sans Semibold" size="40">N-No! I don't think it is, anyway...</font>
+
+107
+00:11:58,360 --> 00:11:59,940
+<font face="Open Sans Semibold" size="40">Let us see! Let us see!</font>
+
+108
+00:12:00,350 --> 00:12:02,780
+<font face="Open Sans Semibold" size="40">Come on, don't be stingy! Show us!</font>
+
+109
+00:12:03,180 --> 00:12:05,780
+<font face="Open Sans Semibold" size="40">Stop that! It's mean!</font>
+
+110
+00:12:06,820 --> 00:12:08,990
+<font face="Open Sans Semibold" size="40">A brown paper envelope, huh?</font>
+
+111
+00:12:08,990 --> 00:12:10,780
+<font face="Open Sans Semibold" size="40">What's written on it?</font>
+
+112
+00:12:14,120 --> 00:12:15,470
+<font face="Open Sans Semibold" size="40">Huh?</font>
+
+113
+00:12:15,470 --> 00:12:16,760
+<font face="Open Sans Semibold" size="40">What the heck is this?</font>
+
+114
+00:12:19,960 --> 00:12:21,160
+<font face="Open Sans Semibold" size="40">Talk about boring!</font>
+
+115
+00:12:21,570 --> 00:12:23,090
+<font face="Open Sans Semibold" size="40">I knew it.</font>
+
+116
+00:12:52,900 --> 00:12:54,490
+<font face="Open Sans Semibold" size="40">Psyche...</font>
+
+117
+00:13:10,780 --> 00:13:14,740
+<font face="Open Sans Semibold" size="40">You've got it all wrong! Somebody peeped into my voice mail!</font>
+
+118
+00:13:14,740 --> 00:13:16,140
+<font face="Open Sans Semibold" size="40">I can't believe it!</font>
+
+119
+00:13:16,750 --> 00:13:21,090
+<font face="Open Sans Semibold" size="40">As the relevant clauses were not in the resume we received,</font>
+
+120
+00:13:21,090 --> 00:13:25,680
+<font face="Open Sans Semibold" size="40">we are currently discussing how to handle it. As for your company...</font>
+
+121
+00:13:26,360 --> 00:13:30,320
+<font face="Open Sans Semibold" size="40">I love kissing. Just kissing is enough to make me happy.</font>
+
+122
+00:13:31,600 --> 00:13:35,000
+<font face="Open Sans Semibold" size="40">You heard about that kid pulling a stupid stunt on Accela, right?</font>
+
+123
+00:13:35,000 --> 00:13:38,070
+<font face="Open Sans Semibold" size="40">Looks like the black market supplier is freaking out.</font>
+
+124
+00:13:38,070 --> 00:13:40,300
+<font face="Open Sans Semibold" size="40">You can't find it anywhere now.</font>
+
+125
+00:13:42,110 --> 00:13:45,470
+<font face="Open Sans Semibold" size="40">Rumor has it that the Psyche chip is mass-produced in factories in Taiwan.</font>
+
+126
+00:13:45,470 --> 00:13:49,610
+<font face="Open Sans Semibold" size="40">Rumor also says that it was designed by a group called the Knights.</font>
+
+127
+00:13:50,950 --> 00:13:54,780
+<font face="Open Sans Semibold" size="40">But I'm not sure if these "Knights" even exist.</font>
+
+128
+00:13:55,220 --> 00:13:58,280
+<font face="Open Sans Semibold" size="40">In the Wired, there are a lot of urban legends like that.</font>
+
+129
+00:13:58,660 --> 00:14:01,190
+<font face="Open Sans Semibold" size="40">Dying feels so good!</font>
+
+130
+00:14:02,290 --> 00:14:04,420
+<font face="Open Sans Semibold" size="40">I feel accelerated...</font>
+
+131
+00:14:04,420 --> 00:14:07,430
+<font face="Open Sans Semibold" size="40">What the...? There's someone in my room!</font>
+
+132
+00:14:07,430 --> 00:14:11,610
+<font face="Open Sans Semibold" size="40">It's a little person like a kid in a red and green striped shirt!</font>
+
+133
+00:14:11,610 --> 00:14:17,440
+<font face="Open Sans Semibold" size="40">I can't move in my bed! It's standing by my door, watching me!</font>
+
+134
+00:14:17,440 --> 00:14:19,160
+<font face="Open Sans Semibold" size="40">Help me!</font>
+
+135
+00:14:20,160 --> 00:14:24,280
+<font face="Open Sans Semibold" size="40">I have a picture of you with your secret lover.</font>
+
+136
+00:14:24,280 --> 00:14:28,190
+<font face="Open Sans Semibold" size="40">I just want to do business. What do you say?</font>
+
+137
+00:14:28,190 --> 00:14:33,350
+<font face="Open Sans Semibold" size="40">If you don't buy it, I'll leak this image data to your company's server.</font>
+
+138
+00:14:33,930 --> 00:14:36,290
+<font face="Open Sans Semibold" size="40">You'll be famous all over the Wired.</font>
+
+139
+00:14:38,760 --> 00:14:42,000
+<font face="Open Sans Semibold" size="40">Lain, why won't you come here?</font>
+
+140
+00:14:49,710 --> 00:14:53,210
+<font face="Open Sans Semibold" size="40">Lain has new mail.</font>
+
+141
+00:14:54,660 --> 00:14:55,780
+<font face="Open Sans Semibold" size="40">Navi...</font>
+
+142
+00:14:55,780 --> 00:14:57,650
+<font face="Open Sans Semibold" size="40">How's it going, Lain?</font>
+
+143
+00:14:59,080 --> 00:15:01,370
+<font face="Open Sans Semibold" size="40">Gotten used to your new Navi?</font>
+
+144
+00:15:06,490 --> 00:15:08,210
+<font face="Open Sans Semibold" size="40">Something wrong?</font>
+
+145
+00:15:12,730 --> 00:15:14,960
+<font face="Open Sans Semibold" size="40">Do you know what this is?</font>
+
+146
+00:15:17,370 --> 00:15:19,000
+<font face="Open Sans Semibold" size="40">No.</font>
+
+147
+00:15:19,770 --> 00:15:21,470
+<font face="Open Sans Semibold" size="40">I thought...</font>
+
+148
+00:15:26,040 --> 00:15:29,230
+<font face="Open Sans Semibold" size="40">I thought you'd know, Dad.</font>
+
+149
+00:15:29,230 --> 00:15:31,880
+<font face="Open Sans Semibold" size="40">I said I don't know.</font>
+
+150
+00:16:20,630 --> 00:16:23,160
+<font face="Open Sans Semibold" size="40">Come on, why not?</font>
+
+151
+00:16:23,470 --> 00:16:26,040
+<font face="Open Sans Semibold" size="40">No... I can't...</font>
+
+152
+00:16:26,040 --> 00:16:29,080
+<font face="Open Sans Semibold" size="40">Why not? I love you.</font>
+
+153
+00:16:34,810 --> 00:16:35,940
+<font face="Open Sans Semibold" size="40">Lain!</font>
+
+154
+00:16:38,780 --> 00:16:43,120
+<font face="Open Sans Semibold" size="40">Where've you been lately? I haven't seen you around.</font>
+
+155
+00:16:44,760 --> 00:16:46,080
+<font face="Open Sans Semibold" size="40">I...</font>
+
+156
+00:16:46,080 --> 00:16:50,560
+<font face="Open Sans Semibold" size="40">What the...? Damn, you're sure going for the "little girl" look today...</font>
+
+157
+00:16:53,500 --> 00:16:57,160
+<font face="Open Sans Semibold" size="40">Let's have another rave, okay? I'll leave the planning to you.</font>
+
+158
+00:17:08,830 --> 00:17:10,890
+<font face="Open Sans Semibold" size="40">Why're you trying to act so tough?</font>
+
+159
+00:17:09,840 --> 00:17:10,890
+Excuse me.
+
+160
+00:17:10,890 --> 00:17:12,550
+<font face="Open Sans Semibold" size="40">Look who's talking!</font>
+
+161
+00:17:12,550 --> 00:17:14,350
+<font face="Open Sans Semibold" size="40">Do you know what this is?</font>
+
+162
+00:17:21,340 --> 00:17:24,090
+<font face="Open Sans Semibold" size="40">I-Is that a Psyche?!</font>
+
+163
+00:17:27,370 --> 00:17:28,270
+<font face="Open Sans Semibold" size="40">Wha...</font>
+
+164
+00:17:28,270 --> 00:17:29,310
+<font face="Open Sans Semibold" size="40">No way!</font>
+
+165
+00:17:29,310 --> 00:17:31,370
+<font face="Open Sans Semibold" size="40">I've never seen one before!</font>
+
+166
+00:17:33,170 --> 00:17:35,040
+<font face="Open Sans Semibold" size="40">W-Where did you buy it?</font>
+
+167
+00:17:35,770 --> 00:17:37,360
+<font face="Open Sans Semibold" size="40">You know what this is?</font>
+
+168
+00:17:37,360 --> 00:17:39,040
+<font face="Open Sans Semibold" size="40">What're you saying?</font>
+
+169
+00:17:40,380 --> 00:17:45,370
+<font face="Open Sans Semibold" size="40">With that installed, I could get full access to the Wired with even this!</font>
+
+170
+00:17:45,850 --> 00:17:48,540
+<font face="Open Sans Semibold" size="40">How do you use it?</font>
+
+171
+00:17:48,540 --> 00:17:51,620
+<font face="Open Sans Semibold" size="40">Talk about lame! You don't even know that?</font>
+
+172
+00:17:53,360 --> 00:17:56,050
+<font face="Open Sans Semibold" size="40">Can I buy it off you? Can I?</font>
+
+173
+00:17:56,360 --> 00:17:58,660
+<font face="Open Sans Semibold" size="40">Moron! Like you could buy something like that!</font>
+
+174
+00:17:59,030 --> 00:18:00,470
+<font face="Open Sans Semibold" size="40">What kind of Navi do you have?</font>
+
+175
+00:18:00,470 --> 00:18:03,060
+<font face="Open Sans Semibold" size="40">I'm not really sure. It's a Tachibana.</font>
+
+176
+00:18:03,060 --> 00:18:05,530
+<font face="Open Sans Semibold" size="40">Their newest model, I think.</font>
+
+177
+00:18:06,470 --> 00:18:08,160
+<font face="Open Sans Semibold" size="40">Awesome!</font>
+
+178
+00:18:08,770 --> 00:18:12,540
+<font face="Open Sans Semibold" size="40">Have you gotten inside it?</font>
+
+179
+00:18:18,960 --> 00:18:20,890
+<font face="Open Sans Semibold" size="40">You in eighth grade? Ninth?</font>
+
+180
+00:18:20,890 --> 00:18:21,700
+<font face="Open Sans Semibold" size="40">Eighth.</font>
+
+181
+00:18:21,700 --> 00:18:24,490
+<font face="Open Sans Semibold" size="40">Then you've taken Basic Information, right?</font>
+
+182
+00:18:24,860 --> 00:18:28,590
+<font face="Open Sans Semibold" size="40">A Navi's basic motherboard layout is in the textbook.</font>
+
+183
+00:18:30,060 --> 00:18:33,620
+<font face="Open Sans Semibold" size="40">You connect it to the board, opposite the main processor.</font>
+
+184
+00:18:34,970 --> 00:18:39,710
+<font face="Open Sans Semibold" size="40">It intercepts the original data and manipulates it on its own.</font>
+
+185
+00:18:40,240 --> 00:18:43,210
+<font face="Open Sans Semibold" size="40">Using it is easier than building a model kit.</font>
+
+186
+00:18:44,540 --> 00:18:46,720
+<font face="Open Sans Semibold" size="40">You just need to watch out for static electricity.</font>
+
+187
+00:18:48,350 --> 00:18:50,250
+<font face="Open Sans Semibold" size="40">Oh. Thanks.</font>
+
+188
+00:18:51,080 --> 00:18:51,610
+<font face="Open Sans Semibold" size="40">Hold it!</font>
+
+189
+00:18:52,230 --> 00:18:56,750
+<font face="Open Sans Semibold" size="40">Information isn't free, not in the Wired or in the real world.</font>
+
+190
+00:18:57,560 --> 00:18:59,730
+<font face="Open Sans Semibold" size="40">How much you gonna charge? How much?</font>
+
+191
+00:19:01,560 --> 00:19:02,760
+<font face="Open Sans Semibold" size="40">Uh...</font>
+
+192
+00:19:02,760 --> 00:19:05,490
+<font face="Open Sans Semibold" size="40">You're Lain, aren't you?</font>
+
+193
+00:19:07,070 --> 00:19:11,790
+<font face="Open Sans Semibold" size="40">I saw you once. In the Wired.</font>
+
+194
+00:19:12,840 --> 00:19:16,290
+<font face="Open Sans Semibold" size="40">You saw me? In the Wired?</font>
+
+195
+00:19:16,290 --> 00:19:19,770
+<font face="Open Sans Semibold" size="40">You were totally different then than you are now.</font>
+
+196
+00:19:21,650 --> 00:19:25,050
+<font face="Open Sans Semibold" size="40">Most people take on a personality in the Wired</font>
+
+197
+00:19:25,050 --> 00:19:27,750
+<font face="Open Sans Semibold" size="40">that's different than what they have in the real world,</font>
+
+198
+00:19:28,550 --> 00:19:30,390
+<font face="Open Sans Semibold" size="40">but yours are total opposites.</font>
+
+199
+00:19:30,390 --> 00:19:31,680
+<font face="Open Sans Semibold" size="40">No way!</font>
+
+200
+00:19:32,690 --> 00:19:36,650
+<font face="Open Sans Semibold" size="40">You were here when that idiot started shooting, too, weren't you?</font>
+
+201
+00:19:37,360 --> 00:19:38,920
+<font face="Open Sans Semibold" size="40">What are you planning?</font>
+
+202
+00:19:39,600 --> 00:19:42,110
+<font face="Open Sans Semibold" size="40">What... What should I do for you?</font>
+
+203
+00:19:44,170 --> 00:19:46,170
+<font face="Open Sans Semibold" size="40">Go out on a date with me!</font>
+
+204
+00:19:46,170 --> 00:19:46,970
+<font face="Open Sans Semibold" size="40">Moron.</font>
+
+205
+00:19:46,970 --> 00:19:50,200
+<font face="Open Sans Semibold" size="40">But not like you are now.</font>
+
+206
+00:19:50,580 --> 00:19:53,750
+<font face="Open Sans Semibold" size="40">I want the wild Lain.</font>
+
+207
+00:19:56,790 --> 00:19:58,540
+<font face="Open Sans Semibold" size="40">I-I'm just kidding!</font>
+
+208
+00:19:58,540 --> 00:20:01,280
+<font face="Open Sans Semibold" size="40">But if you feel like it sometime...</font>
+
+209
+00:20:01,280 --> 00:20:02,850
+<font face="Open Sans Semibold" size="40">What're you talking about?!</font>
+
+210
+00:20:03,250 --> 00:20:04,190
+<font face="Open Sans Semibold" size="40">Hey...</font>
+
+211
+00:20:04,190 --> 00:20:06,060
+<font face="Open Sans Semibold" size="40">Forget about it! Let's go!</font>
+
+212
+00:20:06,060 --> 00:20:06,780
+<font face="Open Sans Semibold" size="40">Sure!</font>
+
+213
+00:20:07,590 --> 00:20:09,290
+<font face="Open Sans Semibold" size="40">What's so great about you?</font>
+
+214
+00:20:29,950 --> 00:20:31,450
+<font face="Open Sans Semibold" size="40">Uh... Excuse me?</font>
+
+215
+00:20:32,620 --> 00:20:34,710
+<font face="Open Sans Semibold" size="40">Are you here to see someone?</font>
+
+216
+00:20:36,250 --> 00:20:37,740
+<font face="Open Sans Semibold" size="40">Who are you?</font>
+
+217
+00:20:40,020 --> 00:20:43,840
+<font face="Open Sans Semibold" size="40">You never saw us.</font>
+
+218
+00:20:43,840 --> 00:20:46,390
+<font face="Open Sans Semibold" size="40">W-What? I'll call the police!</font>
+
+219
+00:20:47,840 --> 00:20:52,900
+<font face="Open Sans Semibold" size="40">We're not here, you see.</font>
+
+220
+00:20:57,710 --> 00:20:59,370
+<font face="Open Sans Semibold" size="40">H-Hey...</font>
+
+221
+00:21:05,440 --> 00:21:07,500
+<font face="Open Sans Semibold" size="40">W-What the hell?</font>
+
+222
+00:21:10,720 --> 00:21:14,320
+<font face="Open Sans Semibold" size="40">Mom, if they show up again, call the cops!</font>
+
+223
+00:21:14,930 --> 00:21:16,760
+<font face="Open Sans Semibold" size="40">Are you listening, Mom?</font>
+
+224
+00:21:19,030 --> 00:21:20,020
+<font face="Open Sans Semibold" size="40">Damn it...</font>
+
+225
+00:21:35,310 --> 00:21:37,520
+<font face="Open Sans Semibold" size="40">W-What're you doing, Lain?</font>
+
+226
+00:21:47,060 --> 00:21:51,260
+<font face="Open Sans Semibold" size="40">What are you doing? Why are you dressed like that?</font>
+
+227
+00:21:52,500 --> 00:21:55,740
+<font face="Open Sans Semibold" size="40">Well, I heard that you have to watch out for static electricity.</font>
+
+228
+00:21:56,430 --> 00:21:59,890
+<font face="Open Sans Semibold" size="40">So I thought it'd probably be safest if I took off my clothes.</font>
+
+229
+00:22:01,470 --> 00:22:04,310
+<font face="Open Sans Semibold" size="40">A-Are you kidding?</font>
+
+230
+00:22:06,380 --> 00:22:08,470
+<font face="Open Sans Semibold" size="40">Welcome home, sis!</font>
+
+231
+00:22:30,120 --> 00:22:34,550
+<font face="Bembo Std Semibold" size="35">{\an8}nan no tsumi mo nai hazu na no ni</font>
+
+232
+00:22:30,120 --> 00:22:34,550
+<font face="Bembo Std Semibold" size="35">Although I must be innocent,</font>
+
+233
+00:22:34,550 --> 00:22:38,460
+<font face="Bembo Std Semibold" size="35">{\an8}nanraka no batsu wo uketeru</font>
+
+234
+00:22:34,550 --> 00:22:38,460
+<font face="Bembo Std Semibold" size="35">now I am punished.</font>
+
+235
+00:22:38,890 --> 00:22:44,760
+<font face="Bembo Std Semibold" size="35">{\an8}jibun de maita tane de mo nai no ni</font>
+
+236
+00:22:38,890 --> 00:22:44,760
+<font face="Bembo Std Semibold" size="35">I wasn't the one who sowed those seeds, but nevertheless</font>
+
+237
+00:22:45,480 --> 00:22:51,670
+<font face="Bembo Std Semibold" size="35">{\an8}sakimidareta hana tsumasareru</font>
+
+238
+00:22:45,480 --> 00:22:51,670
+<font face="Bembo Std Semibold" size="35">I have to pull up the flowers that bloomed from them.</font>
+
+239
+00:22:58,220 --> 00:23:02,860
+<font face="Bembo Std Semibold" size="35">{\an8}shiranai koto to mo ienai ga</font>
+
+240
+00:22:58,220 --> 00:23:02,860
+<font face="Bembo Std Semibold" size="35">I can't say I didn't know about it,</font>
+
+241
+00:23:02,860 --> 00:23:07,310
+<font face="Bembo Std Semibold" size="35">{\an8}katabou katsuida oboe wa nai</font>
+
+242
+00:23:02,860 --> 00:23:07,310
+<font face="Bembo Std Semibold" size="35">but I don't remember taking any part in it.</font>
+
+243
+00:23:07,310 --> 00:23:13,500
+<font face="Bembo Std Semibold" size="35">{\an8}jiyuu wo takaku kawasareta ki mo suru ga</font>
+
+244
+00:23:07,310 --> 00:23:13,500
+<font face="Bembo Std Semibold" size="35">I think my freedom cost me dearly,</font>
+
+245
+00:23:14,030 --> 00:23:20,740
+<font face="Bembo Std Semibold" size="35">{\an8}kokoro made yasuku utta oboe wa nai</font>
+
+246
+00:23:14,030 --> 00:23:20,740
+<font face="Bembo Std Semibold" size="35">but I don't remember selling my soul so cheaply.</font>
+
+247
+00:23:21,100 --> 00:23:28,790
+<font face="Bembo Std Semibold" size="35">{\an8}Hey Hey kutabatte osaraba suru made</font>
+
+248
+00:23:21,100 --> 00:23:28,790
+<font face="Bembo Std Semibold" size="35">Hey hey, until I die and say farewell...</font>
+
+249
+00:23:29,810 --> 00:23:38,700
+<font face="Bembo Std Semibold" size="35">{\an8}Hey Hey dare no te ni mo kakaranai</font>
+
+250
+00:23:29,810 --> 00:23:38,700
+<font face="Bembo Std Semibold" size="35">Hey hey... no one can touch me.</font>
+
+251
+00:23:40,220 --> 00:23:44,310
+<font face="Bembo Std Semibold" size="35">{\an8}tooi yoru wo urotsuiteiru</font>
+
+252
+00:23:40,220 --> 00:23:44,310
+<font face="Bembo Std Semibold" size="35">You probably don't know</font>
+
+253
+00:23:44,310 --> 00:23:52,020
+<font face="Bembo Std Semibold" size="35">{\an8}shiranai darou eien no narazu monotachi wo</font>
+
+254
+00:23:44,310 --> 00:23:52,020
+<font face="Bembo Std Semibold" size="35">the eternal outlaws prowling in the distant night.</font>
+
